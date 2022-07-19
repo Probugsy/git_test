@@ -1,0 +1,4 @@
+Hello World, my name is Angelica aka Probugsy. This is my first time properly
+using GitHub and Git through the terminal and VS Code. This is exciting.
+I am going through the Odin Project right now on the part of Git Basics.
+So lets see how this goes. 
