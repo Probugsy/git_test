@@ -7,3 +7,4 @@ But note to self: if you want to add a new txt or code something new
 you must add that new html/css/txt doc to the folder that contains the 
 cloned github repository!
 
+I was able to write this new code and commit the changes to the repository! Cool!
