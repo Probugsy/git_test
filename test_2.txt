@@ -1,0 +1,9 @@
+7/20 
+
+I made this new doc. Hopefully I can manipulate both of these and also commit
+both at the same time. We shall see how this happens.
+
+But note to self: if you want to add a new txt or code something new 
+you must add that new html/css/txt doc to the folder that contains the 
+cloned github repository!
+
