@@ -12,3 +12,5 @@ Well I was able to do it! Thankfully! Let's hope I can do it again with
 the a new txt as well.
 
 Well I was able to make commits using two new-modified txt docs.
+
+Well one last time and then ON TO HTML!
